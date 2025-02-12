@@ -1,4 +1,4 @@
-# Hi, I'm Joe 👋  
+# Hi, I'm Gurjot Singh 👋  
 
 ## 💻 About Me
 - 🔭 Currently working on an [NBA-themed Unity game](https://github.com/gurjotsandher) and a [microservice-based forum app](https://github.com/gurjotsandher/forum-microservices)
@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurjot-singh-developer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://gurjotsandher.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurjotsa143@gmail.com)
 
