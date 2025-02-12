@@ -1,28 +1,27 @@
 # Hi, I'm Gurjot 👋  
 
 ## 💻 About Me
-- 🔭 Currently working on an [NBA-themed Unity game](https://github.com/gurjotsandher) and a [microservice-based forum app](https://github.com/gurjotsandher/forum-microservices)
+- 🔭 Currently working on a [microservice-based forum app](https://github.com/gurjotsandher/forum-microservices)
 - 🌱 Exploring and building with **TypeScript**, **Vue.js**, **Flask**, **.NET**, **Angular**, **Azure**, and **AWS**
 - 💪 Passionate about **programming** and **innovation**
-- ⚡ Fun fact: I enjoy **tinkering with microservices**, **game development**, and finding elegant solutions to complex problems
+- ⚡ Fun fact: I enjoy **tinkering with microservices**, **statistical analysis**, and finding innovative solutions to build complex ideas
 
 ---
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurjotsandher&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true)
+![Gurjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurjotsandher&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurjotsandher&layout=compact&theme=dark&langs_count=6)
 
 ---
