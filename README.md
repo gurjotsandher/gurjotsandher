@@ -34,10 +34,10 @@
 ---
 
 ## 🎯 Current Goals
-- 🚀 Refine my Unity game with enhanced microservice functionality
-- 🌍 Contribute more to open-source projects and help the community
-- 📦 Build scalable backend systems using Flask and AWS
-- 🔍 Improve my skills in cloud architecture and scalable applications
+- 🚀 Create a multi tenant forum with microservice architecture providing several reusable services.
+- 🌍 Innovate and help the community by building solutions to complex problems
+- 📦 Build scalable backend systems using cloud native services like Azure & AWS
+- 🔍 Utilize my skills in cloud architecture and scalable applications
 
 ---
 
