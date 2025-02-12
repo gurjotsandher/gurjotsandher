@@ -1,4 +1,4 @@
-# Hi, I'm Gurjot Singh 👋  
+# Hi, I'm Gurjot 👋  
 
 ## 💻 About Me
 - 🔭 Currently working on an [NBA-themed Unity game](https://github.com/gurjotsandher) and a [microservice-based forum app](https://github.com/gurjotsandher/forum-microservices)
