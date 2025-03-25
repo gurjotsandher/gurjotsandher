@@ -8,20 +8,7 @@
 
 ---
 
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
----
-
 ## 📈 GitHub Stats
-![Gurjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurjotsandher&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurjotsandher&layout=compact&theme=dark&langs_count=6)
 
 ---
